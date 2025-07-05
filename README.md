@@ -48,7 +48,6 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 
 ## 🌍 **Beyond the Screen**
 
-- 💪 Fitness enthusiast 
 - 🎨 Passionate about merging tech, health, and design for meaningful user experiences
 
 ---
