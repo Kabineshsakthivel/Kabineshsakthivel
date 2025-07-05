@@ -40,6 +40,7 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 
 ## 📚 **Experience & Leadership**
 
+- 💪 Independently leading end-to-end AI/ML projects at Aerix Nova Technologies — from data preprocessing and model development to deploying fully functional user-facing products.
 - 💼 Led and contributed to research & course projects (IoT, DBMS, OS, design thinking)
 - 🤝 Head of Discipline Group Committee at college — fostering collaboration & discipline
 - 🏢 Startup & cross-functional team experience
@@ -48,7 +49,7 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 
 ## 🌍 **Beyond the Screen**
 
-- 💪 Fitness enthusiast (gained 20+ kg muscle since 2022!)
+- 💪 Fitness enthusiast 
 - 🎨 Passionate about merging tech, health, and design for meaningful user experiences
 
 ---
