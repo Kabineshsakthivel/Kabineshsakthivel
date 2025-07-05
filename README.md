@@ -31,9 +31,9 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 
 | 🐍 Python | ⚛️ React.js | 🌐 Flask | 🟣 ChromaDB | 🔗 LangChain | 🤖 OpenAI GPT |
 |-----------|------------|----------|-------------|--------------|--------------|
-| 📊 Pandas | 📈 Scikit-learn | 🐳 Docker | 🖥️ Mac/Linux | 📝 Notion | 🛠️ VS Code |
-| 🔧 Git | 🌐 Networking | 💡 EDA | 📚 RAG | 🧠 ML/AI | 🎯 Model Testing |
-| 🔄 Ensemble Methods | 🧪 Model Validation | 📈 Performance Metrics | ...and more! |
+| 📊 Pandas | 📈 Scikit-learn | 🐳 Docker | 🖥️ Mac/Linux | 🎯 Model Testing | 🛠️ Model training |
+| 🔧 Git | 🌐 Networking | 💡 EDA | 📚 RAG | 🧠 ML/AI | 📈 Performance Metrics |
+| 🔄 Ensemble Methods | 🧪 Model Validation | ...and more! |  |
 
 ---
 
