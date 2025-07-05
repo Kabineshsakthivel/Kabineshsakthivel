@@ -29,3 +29,35 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 ---
 
 ## 💡 **Skills & Tools**
+
+| 🐍 Python | ⚛️ React.js | 🌐 Flask | 🟣 ChromaDB | 🔗 LangChain | 🤖 OpenAI GPT |
+|-----------|------------|----------|-------------|--------------|--------------|
+| 📊 Pandas | 📈 Scikit-learn | 🐳 Docker | 🖥️ Mac/Linux | 📝 Notion | 🛠️ VS Code |
+| 🔧 Git | 🌐 Networking | 💡 EDA | 📚 RAG | 🧠 ML/AI | 🎯 Model Testing |
+| 🔄 Ensemble Methods | 🧪 Model Validation | 📈 Performance Metrics | ...and more! |
+
+---
+
+## 📚 **Experience & Leadership**
+
+- 💼 Led and contributed to research & course projects (IoT, DBMS, OS, design thinking)
+- 🤝 Head of Discipline Group Committee at college — fostering collaboration & discipline
+- 🏢 Startup & cross-functional team experience
+
+---
+
+## 🌍 **Beyond the Screen**
+
+- 💪 Fitness enthusiast (gained 20+ kg muscle since 2022!)
+- 🎨 Passionate about merging tech, health, and design for meaningful user experiences
+
+---
+
+## 📬 **Let's Connect!**
+
+If you're building in **AI**, **databases**, or **scalable web systems** — let's collaborate, learn, and grow together!  
+Always open to internships, research, and startup opportunities in **AI/ML** and **data science**.
+
+> _"Building the future, one line of code at a time — with a little help from AI! 🤝💡"_
+
+---
