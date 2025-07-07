@@ -1,6 +1,5 @@
 
-#  I'm **Kabinesh Sakthivel**, a driven and detail-oriented Computer Science Engineering student at SRM Institute of Science and Technology (KTR), deeply passionate about solving real-world problems through Artificial Intelligence, Machine Learning, and data-driven technologies.
-
+#  I'm **Kabinesh Sakthivel**
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabineshsakthivel/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kabinesh-sakthivel)
