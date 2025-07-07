@@ -1,5 +1,5 @@
 
-# 👋 Hey there, I'm **Kabinesh Sakthivel**!  
+#  I'm **Kabinesh Sakthivel**, a driven and detail-oriented Computer Science Engineering student at SRM Institute of Science and Technology (KTR), deeply passionate about solving real-world problems through Artificial Intelligence, Machine Learning, and data-driven technologies.
 
 ---
 
