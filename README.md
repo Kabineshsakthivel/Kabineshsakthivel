@@ -13,7 +13,7 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 - 🧑‍💻 **Core Contributor @ AerixTech** — Building intelligent systems: AI-powered customer churn models, RAG-based LLM dashboards, and more!
 - 🛠️ **Tech Stack:** Python, Flask, React.js, ChromaDB, LangChain, OpenAI GPT, Pandas, Scikit-learn, Docker, Git, Mac/Linux, Notion, VS Code, and more!
 - 🌱 **Currently Learning:** Advanced ML algorithms, LLM fine-tuning & deployment, building production-grade AI systems.
-- 🧠 **AI Model Expertise:** Extensive experience with multiple AI models, specializing in ensemble methods and comprehensive model testing & validation
+- 🧠 **AI Model Expertise:** Extensive experience with multiple AI models, specializing in ensemble methods and comprehensive model testing & validation.
 ---
 
 ## 🏆 **What I've Built**
