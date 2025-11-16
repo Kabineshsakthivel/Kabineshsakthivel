@@ -6,6 +6,7 @@
 
 ---
 
+
 🚀 **About Me**
 
 I'm a passionate, detail-oriented Computer Science Engineering student at **SRM Institute of Science and Technology (KTR)**, on a mission to solve real-world problems with **AI**, **Machine Learning**, and data-driven tech!  
