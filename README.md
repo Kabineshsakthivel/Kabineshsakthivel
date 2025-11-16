@@ -15,6 +15,8 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 - 🧠 **AI Model Expertise:** Extensive experience with multiple AI models, specializing in ensemble methods and comprehensive model testing & validation.
 ---
 
+
+
 ## 🏆 **What I've Built**
 
 - 🤖 **AI-Assisted Database** — Smart DB queries with LLMs and vector search
