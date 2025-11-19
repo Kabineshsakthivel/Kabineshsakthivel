@@ -21,7 +21,6 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 - 🧠 **RAG-based LLM Dashboards** — Seamless integration of LangChain, Chroma, and React
 - 🌊 **Tide Prediction App** — Full-stack app for real-time tide forecasting
 
-
 ---
 
 ## 💡 **Skills & Tools**
