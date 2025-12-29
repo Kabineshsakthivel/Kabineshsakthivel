@@ -38,7 +38,7 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 - 💼 Led and contributed to research & course projects (IoT, DBMS, OS, design thinking).
 - 🤝 Head of Discipline Group Committee at college — fostering collaboration & discipline.
 - 🏢 Startup & cross-functional team experience. 
---
+---
 
 ## 🌍 **Beyond the Screen**
 
