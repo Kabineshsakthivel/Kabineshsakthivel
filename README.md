@@ -17,6 +17,7 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 ---
 ## 🏆 **What I've Built**
 
+
 - 🤖 **AI-Assisted Database** — Smart DB queries with LLMs and vector search
 - 📉 **Churn Analysis Platform** — Predicting customer churn with XGBoost & EDA
 - 🧠 **RAG-based LLM Dashboards** — Seamless integration of LangChain, Chroma,and React
