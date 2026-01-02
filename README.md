@@ -8,7 +8,7 @@ ___
 
 🚀 **About Me**   
 
-I'm a passionate, detail-oriented Computer Science Engineering student at **SRM Institute of Science and Technology (KTR)**, on a mission to solve real-world problems with **AI**, **Machine Learning**, and data-driven tech! 
+I'm a passionate, detail-oriented Computer Science Engineering student at **SRM Institute of Science and Technology (KTR)**, on a mission to solve real-world problems with **AI**, **Machine Learning**, and data-driven tech!  
 
 - 🧑‍💻 **Core Contributor @ AerixTech** — Building intelligent systems: AI-powered customer churn models, RAG-based LLM dashboards, and more!
 - 🛠️ **Tech Stack:** Python, Flask, React.js, ChromaDB, LangChain, OpenAI GPT, Pandas, Scikit-learn, Docker,  Git, Mac/Linux, Notion, VS Code, and more!
