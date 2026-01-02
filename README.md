@@ -55,6 +55,7 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 If you're building in **AI**, **databases**, or **scalable web systems** — let's collaborate, learn, and grow together!  
 Always open to internships, research, and startup opportunities in **AI/ML** and **data science**.
 
-> _"Building the future, one line of code at a time — with a little help from AI! 🤝💡"_
+> _"Building the future, one line of code at a time
+>  with a little help from AI! 🤝💡"_
 
 ---
