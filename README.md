@@ -43,7 +43,7 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 - 🤝 Head of Discipline Group Committee at college — fostering collaboration & discipline.
 - 🏢 Startup & cross-functional team experience. 
 ---
-
+ 
 ## 🌍 **Beyond the Screen**
 
 - 🎨 Passionate about merging about merging technology, health, and design to create impactful, user-centered solutions that improve everyday lives
