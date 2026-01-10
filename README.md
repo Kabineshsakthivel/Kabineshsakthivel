@@ -34,7 +34,7 @@ I'm a passionate, detail-oriented Computer Science Engineering student at **SRM 
 | 🔧 Git | 🌐 Networking | 💡 EDA | 📚 RAG | 🧠 ML/AI | 📈 Performance Metrics |
 | 🔄 Ensemble Methods | 🧪 Model Validation | ...and more! |  |
 
----
+--- 
 
 ## 📚 **Experience & Leadership**
 
