@@ -6,7 +6,7 @@ ___
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabineshsakthivel/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kabinesh-sakthivel)
 
 --- 
-
+ 
 🚀 **About Me** 
 
 I'm a passionate, detail-oriented Computer Science Engineering student at **SRM Institute of Science and Technology (KTR)**, on a mission to solve real-world problems with **AI**, **Machine Learning**, and data-driven tech!  
